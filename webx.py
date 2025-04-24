@@ -5,7 +5,11 @@ import fun
 from fun import *
 
 logo=fun._logo_("assets/logo.txt")
-json_files = ["assets/data.json"]
+json_files = [
+"assets/db/user.json",
+"assets/db/config.json",
+"assets/db/package_dep.json"
+]
 
 with open(json_files[0]) as f:
 	data = json.load(f)
