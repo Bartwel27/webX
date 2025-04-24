@@ -1,0 +1,10 @@
+{
+  "whoami":{
+    "name":"webx",
+    "version":"0.1",
+    "charset":"utf-8",
+    "description":"generation tool",
+    "keyword":"...",
+    "parent":"https://bartwel27.github.io/webX/"
+  }
+}
